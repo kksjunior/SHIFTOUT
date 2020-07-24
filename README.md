@@ -5,10 +5,15 @@ SHIFTOUT
 An Embedded C driver function for 74HC595 Shift Register.
 
 Author  : Prasanth K Subash (kksjunior)
+
 Email   : kksjunior@hotmail.com
+
 Website : www.kksjunior.me
+
 Date    : Jul. 24, 2020
+
 Version : 1.0
+
 
 Dependencies : stdint.h
 
