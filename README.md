@@ -18,8 +18,11 @@ Version : 1.0
 Dependencies : stdint.h
 
 Execution Profiling done using Keil MDK 5 Simulator.
+
 MCU : NXP Kinetis MKE04Z128
+
 Execution Time : 0.417 us
+
 
 About:
 
@@ -35,6 +38,7 @@ The shift register and latch have independent clock inputs.
 This device also has an asynchronous reset for the shift register.
 
 More about the shift register here: https://lastminuteengineers.com/74hc595-shift-register-arduino-tutorial/
+
 Datasheet of the OnSemi Part : https://www.onsemi.com/pub/Collateral/MC74HC595-D.PDF
 
 Just copy the Files 1 & 2 mentioned below to your project and follow the instructions. Make sure you add 'stdint.h' to avoid dependency issues.
