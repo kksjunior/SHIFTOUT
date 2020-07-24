@@ -29,7 +29,7 @@ About:
 If you've found this repository, you might probably know about the 74HC595 shift register and maybe you're looking for some drivers.
 If yes, skip the readme and goto the code, everything you need is in the comments.
 
-If you're a beginner read on to get a basic idea about the 74HC595 and this library.
+If you're a beginner, read on to get a basic idea about the 74HC595 and this library.
 
 The 74HC595 consists of an 8−bit shift register and an 8−bit D−type latch with three−state parallel outputs. 
 The shift register accepts serial data and provides a serial output. 
